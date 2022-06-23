@@ -1,0 +1,9 @@
+A0000,急停,EMC
+A0001,严重异常 %,Motion Alarm
+A0002,常规异常 %,Sensor Alarm
+W0000,% 不稳提示,% Unstable Warning
+ES000,开启程式,Start the Program
+ES001,开启程式完成,Start the Program Complete
+ES002,关闭程式,Close the Program
+E1000,马达归位中 %,All Motor Reset %
+E1001,马达归位完成,All Motor Reset Complete
