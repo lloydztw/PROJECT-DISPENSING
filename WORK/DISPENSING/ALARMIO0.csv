@@ -31,11 +31,11 @@ COMMON,12,IX1.1,光幕被遮擋
 ,14,MX3.6,
 ,15,MX3.7,
 COMMON,0,MX4.0,馬達報警
-COMMON,1,MX4.1,重定有產品
+,1,MX3.5,
 COMMON,2,MX4.2,正壓未達到
 COMMON,3,MX4.3,負壓未達到
-,4,MX4.4,
-,5,MX4.5,
+COMMON,4,MX4.4,門被打開
+COMMON,5,MX4.5,光幕被遮擋
 ,6,MX4.6,
 ,7,MX4.7,
 ,8,MX5.0,
