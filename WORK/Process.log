@@ -1,0 +1,18 @@
+Start ANZ-01-0001 Train Prepare.
+Create Align Mask.
+ANZ-01-0001 is Root.
+ANZ-01-0001 Generate Direct Mask.
+ANZ-01-0001 Use Area Alignment.
+Start  Alignment Train.
+ANZ-01-0001 Set Brightness to 0 and Contrast to 0
+ANZ-01-0001 Use Method AUFIND Align For Training
+ANZ-01-0001 Pattern Train Successful
+Start  Alignment Train.
+ANZ-01-0001 Set Brightness to 0 and Contrast to 0
+ANZ-01-0001 Use Method AUFIND Align For Training
+ANZ-01-0001 Pattern Train Successful
+Start ANZ-01-0001 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.70 Pass.
+Alignment Succes.

@@ -1,0 +1,95 @@
+Start ANZ-01-0001 Train Prepare.
+Create Align Mask.
+ANZ-01-0001 is Root.
+ANZ-01-0001 Generate Direct Mask.
+ANZ-01-0001 Use Area Alignment.
+Start  Alignment Train.
+ANZ-01-0001 Set Brightness to 0 and Contrast to 0
+ANZ-01-0001 Use Method AUFIND Align For Training
+ANZ-01-0001 Pattern Train Successful
+Start  Alignment Train.
+ANZ-01-0001 Set Brightness to 0 and Contrast to 0
+ANZ-01-0001 Use Method AUFIND Align For Training
+ANZ-01-0001 Pattern Train Successful
+Start ANZ-01-0001 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.70 Pass.
+Alignment Succes.
+Start  Alignment Train.
+ANZ-02-0002 Set Brightness to 100 and Contrast to 100
+ANZ-02-0002 Use Method AUFIND Align For Training
+ANZ-02-0002 Pattern Train Successful
+Start ANZ-02-0002RB Alignment.
+Set Brightness 100 ,Contrast 100.
+Do Alignment.
+The Result Score is 0.67 >= 0.50 Pass.
+Alignment Succes.
+ANZ-02-0002 RB Corner Train Succesful.
+Start ANZ-02-0002 XDir Train.
+ANZ-02-0002 XDir Origin value is 251.902
+Start  Alignment Train.
+ANZ-02-0002 Set Brightness to 0 and Contrast to 0
+ANZ-02-0002 Use Method AUFIND Align For Training
+ANZ-02-0002 Pattern Train Successful
+Start ANZ-02-0002 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.70 Pass.
+Alignment Succes.
+Start  Alignment Train.
+ANZ-02-0002 Set Brightness to 100 and Contrast to 100
+ANZ-02-0002 Use Method AUFIND Align For Training
+ANZ-02-0002 Pattern Train Successful
+Start ANZ-02-0002RB Alignment.
+Set Brightness 100 ,Contrast 100.
+Do Alignment.
+The Result Score is 0.67 >= 0.50 Pass.
+Alignment Succes.
+ANZ-02-0002 RB Corner Train Succesful.
+Start ANZ-02-0002 XDir Train.
+ANZ-02-0002 XDir Origin value is 251.902
+Start ANZ-02-0002RB Alignment.
+Set Brightness 100 ,Contrast 100.
+Do Alignment.
+The Result Score is 0.67 >= 0.50 Pass.
+Alignment Succes.
+Start ANZ-02-0002 XDir Measure.
+Check For ANZ-02-0002 XDir Measure 0.00 <= 0.20 .
+Start ANZ-02-0002 Check Dirt Area.
+Start  Alignment Train.
+ANZ-03-0003 Set Brightness to 0 and Contrast to 0
+ANZ-03-0003 Use Method AUFIND Align For Training
+ANZ-03-0003 Pattern Train Successful
+Start ANZ-03-0003 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.50 Pass.
+Alignment Succes.
+Start  Alignment Train.
+ANZ-03-0003 Set Brightness to 0 and Contrast to 0
+ANZ-03-0003 Use Method AUFIND Align For Training
+ANZ-03-0003 Pattern Train Successful
+Start ANZ-03-0003 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.50 Pass.
+Alignment Succes.
+Start  Alignment Train.
+ANZ-03-0004 Set Brightness to 0 and Contrast to 0
+ANZ-03-0004 Use Method AUFIND Align For Training
+ANZ-03-0004 Pattern Train Successful
+Start ANZ-03-0004 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.50 Pass.
+Alignment Succes.
+Start  Alignment Train.
+ANZ-03-0004 Set Brightness to 0 and Contrast to 0
+ANZ-03-0004 Use Method AUFIND Align For Training
+ANZ-03-0004 Pattern Train Successful
+Start ANZ-03-0004 Alignment.
+Set Brightness 0 ,Contrast 0.
+Do Alignment.
+The Result Score is 1.00 >= 0.50 Pass.
+Alignment Succes.
